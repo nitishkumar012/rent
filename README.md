@@ -1,0 +1,1 @@
+online rental system” is a web application system. A similar rental system example is “PCredCom“. The “online rental system” is a platform where a person can offer any kind of gadget for rent over a reasonable price while another person (rente) can directly approach him to rent his desirable product.
